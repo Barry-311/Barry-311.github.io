@@ -19,7 +19,7 @@ description: >-
   Welcome to my home! Hope you enjoy my work...
   And let's rock!
 twitter_username: username
-github_username: username
+github_username: Barry-311
 minimal_mistakes_skin: default
 search: true
 
@@ -59,14 +59,11 @@ plugins:
 author:
   name   : "Zishuo Wang（王子硕）"
   avatar : "/assets/images/Avatar.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Welcome no matter who you are. But I know you will know me"
   links:
-    - label: "Website"
+    - label: "YouTube"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://youtube.com/@4ever_prince?si=T-rGNLdAoE4LfZ1K"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"

@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Zishuo's Personal Website
 email: wang_zishuo0311@outlook.com
-description: >- 
-Welcome to my home! Hope you enjoy my work... And let's rock!
+description: >-
+  Welcome to my home! Hope you enjoy my work...
+  And let's rock!
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default

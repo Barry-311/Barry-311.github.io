@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Zishuo Wang（王子硕）"
-  avatar : "/assets/images/Avatar.jpg"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "Welcome no matter who you are. But I know you will know me"
   links:
     - label: "YouTube"
@@ -66,10 +66,10 @@ author:
       url: "https://youtube.com/@4ever_prince?si=T-rGNLdAoE4LfZ1K"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Barry-311"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://www.instagram.com/waaaarriorsgszs?igsh=MXc0cjRiNWJlcWViOA%3D%3D&utm_source=qr"
 
 footer:
   links:

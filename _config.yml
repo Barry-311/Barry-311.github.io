@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Zishuo Wang（王子硕）"
-  avatar : ""
+  avatar : "/assets/images/Avatar.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
